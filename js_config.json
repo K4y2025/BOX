@@ -1,15 +1,16 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "wallpaper": "https://bing.img.run/uhd.php",
     "sites": [
         {
             "key": "libvio_js",
             "name": "Libvio",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/K4y2025/BOX/refs/heads/main/libvio.js",
+            "api": "csp_DrPy",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/K4y2025/BOX/refs/heads/main/libvio.js"
         }
     ]
 }
