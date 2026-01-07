@@ -6,7 +6,7 @@
             "key": "libvio_js",
             "name": "Libvio",
             "type": 3,
-            "api": "./libvio.js",
+            "api": "https://raw.githubusercontent.com/K4y2025/BOX/refs/heads/main/libvio.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
