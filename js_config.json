@@ -1,0 +1,15 @@
+{
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+    "wallpaper": "https://bing.img.run/uhd.php",
+    "sites": [
+        {
+            "key": "libvio_js",
+            "name": "Libvio",
+            "type": 3,
+            "api": "./libvio.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+    ]
+}
