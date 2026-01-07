@@ -1,33 +1,39 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-  "wallpaper": "https://picsum.photos/1920/1080/?blur=2",
-  "sites": [
-    {
-      "key": "csp_Libvio",
-      "name": "Libvio (Crawler)",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.libvio.site/"
-    }
-  ],
-  "lives": [
-    {
-      "name": "Live TV",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/live.txt",
-      "playerType": 1
-    }
-  ],
-  "ads": [
-    "mimg.001img.com",
-    "www.googletagservices.com",
-    "www.google-analytics.com",
-    "mc.yandex.ru",
-    "p_anyth.com",
-    "ads.php",
-    "shubao.com"
-  ]
+    "spider": "http://cdn.qiaoji8.com/fix251212.jar;md5;31542aefeb80f62c8c7c9d1d5e0a6036",
+    "wallpaper": "https://bing.img.run/uhd.php",
+    "sites": [
+        {
+            "key": "Lib",
+            "name": "Libvio┃直连",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h"
+        }
+    ],
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext="
+                    ]
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "43.248.128.138",
+        "mimg.001img.com",
+        "www.googletagservices.com",
+        "www.google-analytics.com",
+        "mc.yandex.ru",
+        "p_anyth.com",
+        "ads.php",
+        "shubao.com"
+    ]
 }
