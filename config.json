@@ -24,19 +24,6 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-    },
-    {
       "key": "csp_xlys",
       "name": "修罗┃无搜索",
       "type": 3,
@@ -614,6 +601,7 @@
     "43.248.128.138"
   ]
 }
+
 
 
 
