@@ -34,7 +34,7 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/"，
+        "siteUrl": "https://www.wogg.net/",
     },
     {
       "key": "csp_xlys",
@@ -614,5 +614,6 @@
     "43.248.128.138"
   ]
 }
+
 
 
