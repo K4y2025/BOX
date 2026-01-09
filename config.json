@@ -24,12 +24,19 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
-      "key": "拾光",
-      "name": "拾光┃秒播APP",
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
-      "api": "csp_Hmys",
-      "playerType": 1,
-      "ext": "https://dy.jmzp.net.cn"
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
     },
     {
       "key": "csp_xlys",
@@ -609,3 +616,4 @@
     "43.248.128.138"
   ]
 }
+
