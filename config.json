@@ -24,6 +24,14 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
+      "key": "拾光",
+      "name": "拾光┃秒播APP",
+      "type": 3,
+      "api": "csp_Hmys",
+      "playerType": 1,
+      "ext": "https://dy.jmzp.net.cn"
+    },
+    {
       "key": "csp_xlys",
       "name": "修罗┃无搜索",
       "type": 3,
@@ -601,7 +609,3 @@
     "43.248.128.138"
   ]
 }
-
-
-
-
